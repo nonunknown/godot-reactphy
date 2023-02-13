@@ -1,3 +1,9 @@
+.vscode/
+
+*.dblite
+*.os
+*.sh
+
 # Godot 4+ specific ignores
 .godot/
 

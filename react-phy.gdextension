@@ -1,6 +1,6 @@
 [configuration]
 
-entry_symbol = "react-phy_library_init"
+entry_symbol = "reactphy_library_init"
 
 [libraries]
 
