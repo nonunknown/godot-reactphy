@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${default}",
+                "/run/media/nonunknown/3a1f3657-ce4a-4ffa-8f65-f41e1dfcaf68/godot-cpp/**",
+                "/run/media/nonunknown/3a1f3657-ce4a-4ffa-8f65-f41e1dfcaf68/reactphysics3d-master/include/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "intelliSenseMode": "linux-gcc-x64",
+            "cppStandard": "gnu++17"
+        }
+    ],
+    "version": 4
+}
